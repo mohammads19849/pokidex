@@ -30,6 +30,7 @@
 		186002DF1DB7D00E00217301 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		186002E21DB7D90600217301 /* PokeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokeCell.swift; sourceTree = "<group>"; };
 		18AA58331DB9192400438F37 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csv.swift; sourceTree = "<group>"; };
+		18AA58381DB9219500438F37 /* pokemon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = pokemon.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +112,7 @@
 		18AA58371DB91AF900438F37 /* Recourse */ = {
 			isa = PBXGroup;
 			children = (
+				18AA58381DB9219500438F37 /* pokemon.ttf */,
 				186002DC1DB7CE2F00217301 /* pokemon.csv */,
 			);
 			name = Recourse;
